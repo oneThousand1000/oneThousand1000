@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yiqian Wu, a second-year (2021-now) Ph.D. student in State Key Lab of CAD&CG at Zhejiang University, advised by Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). I obtained my bachelor degree in computer science and technology from Zhejiang University in 2021.
+I'm Yiqian Wu (吴奕谦), a second-year (2021-now) Ph.D. student in State Key Lab of CAD&CG at Zhejiang University, advised by Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). I obtained my bachelor degree in computer science and technology from Zhejiang University in 2021.
 
 - My research interest mainly falls on portrait processing (mostly achieved by StyleGAN and 3D-aware GANs).
 - My email addresses are: [onethousand@zju.edu.cn](mailto:onethousand@zju.edu.cn) / [onethousand1250@gmail.com](mailto:onethousand1250@gmail.com).
