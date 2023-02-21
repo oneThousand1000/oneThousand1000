@@ -6,5 +6,3 @@ I'm Yiqian Wu (吴奕谦), a second-year (2021-now) Ph.D. student in State Key L
 - My email addresses are: [onethousand@zju.edu.cn](mailto:onethousand@zju.edu.cn) / [onethousand1250@gmail.com](mailto:onethousand1250@gmail.com).
 - My personal website: [onethousandwu.com](https://onethousandwu.com).
 - I adore painting! You may find the painting videos I released on [Bilibili](https://space.bilibili.com/6414209).
-
-Please feel free to ask questions by opening an issue in my repositories; I'll get back to you as soon as I can!
