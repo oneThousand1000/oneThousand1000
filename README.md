@@ -1,4 +1,10 @@
-### ![1f47b](https://www.emojiall.com/images/60/microsoft-teams/1f47b.png) Hi there !
+<div align="center">
+
+![bar](https://raw.githubusercontent.com/oneThousand1000/oneThousand1000.github.io/master/images/bar.png)
+
+</div>
+
+## Hi there ! ![1f47b](https://www.emojiall.com/images/60/microsoft-teams/1f47b.png)
 
 I'm Yiqian Wu (吴奕谦), a third-year (2021-now) Ph.D. student in the State Key Lab of CAD&CG at Zhejiang University, advised by Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). I obtained my bachelor degree in computer science and technology from Zhejiang University in 2021.
 
