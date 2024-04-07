@@ -6,11 +6,11 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-1?color=F38181)](mailto:onethousand1250@gmail.com)
-[![Github](https://img.shields.io/badge/Github-1?color=AA96DA)](https://github.com/oneThousand1000)
-[![scholar](https://img.shields.io/badge/Google%20Scholar-1?color=08D9D6)](https://scholar.google.com/citations?user=MzWL6_gAAAAJ)
-[![orcid](https://img.shields.io/badge/ORCID-1?color=9DC08B)](https://orcid.org/0000-0002-2432-809X)
-[![bilibili](https://img.shields.io/badge/Bilibili-1?color=E178C5)](https://space.bilibili.com/6414209)
+[![Email](https://img.shields.io/badge/Email-1?color=FEFBF6&logo=gmail)](mailto:onethousand1250@gmail.com)
+[![scholar](https://img.shields.io/badge/Google%20Scholar-FEFBF6?logo=Google%20Scholar)](https://scholar.google.com/citations?user=MzWL6_gAAAAJ)
+[![orcid](https://img.shields.io/badge/ORCID-1?color=FEFBF6&logo=ORCID)](https://orcid.org/0000-0002-2432-809X)
+[![](https://img.shields.io/badge/dynamic/json?color=FEFBF6&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DoneThousand1000&logo=github)](https://github.com/oneThousand1000)
+[![](https://img.shields.io/badge/dynamic/json?color=FEFBF6&label=Bilibili&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D6414209&logo=bilibili)](https://space.bilibili.com/6414209)
 
 </div>
 
