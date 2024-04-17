@@ -20,7 +20,7 @@
 
 I am Yiqian Wu (吴奕谦), a CS Ph.D. student (since 2021) at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn), Zhejiang University, under the supervision of Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). Prior to this, I accomplished my Bachelor's degree in Computer Science and Technology, graduating with honors from the Chu Kochen College at Zhejiang University in 2021.
 
-**From May 2024 to Feb 2025, I will start my academic guest journey at ETH Zurich, working with Prof. [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html).** 
+**Starting in May 2024, I will begin my academic guest journey at [ETH Zurich](https://ethz.ch/en.html), working with Prof. [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html).** 
 
 - My research interest mainly falls on portrait generation and manipulation.
 - My email addresses are: [onethousand@zju.edu.cn](mailto:onethousand@zju.edu.cn) / [onethousand1250@gmail.com](mailto:onethousand1250@gmail.com).
