@@ -1,11 +1,5 @@
 <div align="center">
 
-![bar](https://raw.githubusercontent.com/oneThousand1000/oneThousand1000.github.io/master/images/bar.png)
-
-</div>
-
-<div align="center">
-
 [![Email](https://img.shields.io/badge/Email-1?color=FEFBF6&logo=gmail)](mailto:onethousand1250@gmail.com)
 [![scholar](https://img.shields.io/badge/Google%20Scholar-FEFBF6?logo=Google%20Scholar)](https://scholar.google.com/citations?user=MzWL6_gAAAAJ)
 [![orcid](https://img.shields.io/badge/ORCID-1?color=FEFBF6&logo=ORCID)](https://orcid.org/0000-0002-2432-809X)
