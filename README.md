@@ -11,9 +11,9 @@
 
 # Hi there ! ![1f47b](https://www.emojiall.com/images/60/microsoft-teams/1f47b.png)
 
-I am Yiqian Wu (吴奕谦), now serving as an academic guest at [ETH Zurich](https://ethz.ch/en.html) (May 2024 - May 2025), working with Prof. [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html). Concurrently, I am a CS Ph.D. candidate (since 2021) at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn), Zhejiang University, under the supervision of Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin). Prior to this, I accomplished my Bachelor's degree in Computer Science and Technology, graduating from the Chu Kochen College at Zhejiang University in 2021.
+I am Yiqian Wu (吴奕谦), a fourth-year CS Ph.D. candidate at the [State Key Laboratory of CAD&CG](http://www.cad.zju.edu.cn), Zhejiang University, where I have been conducting research under the supervision of Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin) since 2021. From May 2024 to April 2025, I was an academic guest at [ETH Zurich](https://ethz.ch/en.html), collaborating with Prof. [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html). I received my Bachelor's degree in Computer Science and Technology from the Chu Kochen College at Zhejiang University in 2021.
 
-- My research interest mainly falls on portrait generation and manipulation.
-- My email addresses are: [onethousand1250@gmail.com](mailto:onethousand1250@gmail.com).
-- My personal website: [onethousandwu.com](https://onethousandwu.com).
-- I love painting!  I have posted some of my paintings on my website's [art gallery](https://onethousandwu.com/artgallery/), and also shared some videos on [Bilibili](https://space.bilibili.com/6414209). I hope you will enjoy them too :)
+- Research interest: portrait generation and manipulation.
+- Email address: onethousand1250 [at] gmail.com 
+- Personal website: [onethousandwu.com](https://onethousandwu.com).
+- I love painting!  I have posted some of my paintings on my [website](https://onethousandwu.com/artgallery/), and also shared some videos on [Bilibili](https://space.bilibili.com/6414209). I hope you will enjoy them too :)
