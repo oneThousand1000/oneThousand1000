@@ -14,6 +14,6 @@
 I am Yiqian Wu (吴奕谦), a final-year CS Ph.D. candidate at the [State Key Laboratory of CAD&CG](http://www.cad.zju.edu.cn), Zhejiang University, where I have been conducting research under the supervision of Prof. [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin) since 2021. From May 2024 to April 2025, I was an academic guest at [ETH Zurich](https://ethz.ch/en.html), collaborating with Prof. [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html). I received my Bachelor's degree in Computer Science and Technology from the Chu Kochen College at Zhejiang University in 2021.
 
 - Research interest: digital humans
-- Email address: onethousand1250 [at] gmail.com 
+- Email address: yiqian.wu.1k [at] gmail.com 
 - Personal website: [onethousandwu.com](https://onethousandwu.com).
 - I love painting!  I have posted some of my paintings on my [website](https://onethousandwu.com/showcase), and also shared some videos on [Bilibili](https://space.bilibili.com/6414209). I hope you will enjoy them too :)
